@@ -1,2 +1,2 @@
-# Joyland-
-This is rental management system developed as a team during a bootcamp. Credits also go to other group members who aided in seeing the project to completion. 
+# Joyland-House-Management-System
+This is a rental management system developed as a team during a bootcamp. It helps to connect Tenants with Landlords. This is in line with Sustainable Development Goal (SDG) Number 11 which seeks to make sure that cities and human settlements are inclusive, safe, resilient and sustainable.Credits also go to other group members who aided in seeing the project to completion. 
